@@ -1,0 +1,25 @@
+[{
+	"Name": "Site1",
+	"DateCreated": "01012021",
+	"Class": "A"
+}, {
+	"Name": "Site2",
+	"DateCreated": "01012021",
+	"Class": "A"
+}, {
+	"Name": "Site3",
+	"DateCreated": "01012021",
+	"Class": "B"
+}, {
+	"Name": "Site4",
+	"DateCreated": "01012021",
+	"Class": "B"
+}, {
+	"Name": "Site5",
+	"DateCreated": "01012021",
+	"Class": "C"
+}, {
+	"Name": "Site6",
+	"DateCreated": "01012021",
+	"Class": "C"
+}]
